@@ -1,1 +1,1 @@
-# stepik-auto-tests-course
+# пишу пару слов о первом файле
